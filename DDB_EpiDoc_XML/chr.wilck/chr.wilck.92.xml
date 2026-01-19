@@ -48,7 +48,118 @@
             <ref n="bgu;1;1" type="reprint-from">BGU 2.337.i + BGU 1.1.ii</ref>
             <ref n="p.louvre;1;4" type="reprint-in">P.Louvre 1.4</ref>
          </head>
-         <div xml:lang="grc" type="edition" xml:space="preserve"><ab/></div>
+         <div xml:lang="grc" type="edition" xml:space="preserve">
+<div n="1" subtype="column" type="textpart"><ab>
+    <lb n="1"/>ἐξ ὧν τελοῦμεν εἰς λό<supplied reason="lost">γον διοικήσεω</supplied>ς
+
+    <lb n="2"/>ὑπὲρ μὲν ἐπ<supplied reason="lost">ισ</supplied>τατικοῦ <unclear>ἱε</unclear><supplied reason="lost">ρέων <expan><ex>δραχμὰς</ex></expan></supplied> <num value="5500"><supplied reason="lost">Ε</supplied>φ</num>
+
+    <lb n="3"/>καὶ ὑπὲρ βωμῶν <num value="2">δύο</num> τῶ<supplied reason="lost">ν</supplied> <gap reason="lost" quantity="10" unit="character"/>
+
+    <lb n="4" rend="indent"/> ὄντων <unclear>ἐ</unclear>ν Νείλου πόλ<supplied reason="lost">ει, <num value="1">ἑνὸς</num> μὲν</supplied>
+
+    <lb n="5" rend="indent"/> Εἴσ<supplied reason="lost">ιδος Ν</supplied>εφερσῆτος <supplied reason="lost">θεᾶς μεγίστης,</supplied>
+
+    <lb n="6" rend="indent"/> ἑ<unclear>τ</unclear><supplied reason="lost">έρου δὲ Ε</supplied>ἴσιδος Νεφρέμμι<supplied reason="lost">ος</supplied>
+
+    <lb n="7" rend="indent"/> θε<supplied reason="lost">ᾶς μεγίστ</supplied>ης <expan><ex>δραχμὰς</ex></expan> <num value="2100">Βρ</num> <expan>πρ<supplied reason="lost">οσδ</supplied><ex>ιαγραφόμενα</ex></expan> <supplied reason="lost"><expan><ex>δραχμὰς</ex></expan> <num value="131">ρλα</num></supplied> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="2231">Βσλα</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>
+
+    <lb n="8"/>καὶ ὑπ<supplied reason="lost">ὲρ</supplied> <gap reason="lost" quantity="5" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <num value="68">ξη</num> <expan>προ<supplied reason="lost">σδ<ex>ιαγραφόμενα</ex></supplied></expan> <supplied reason="lost"><expan><ex>δραχμὰς</ex></expan> <num value="6">ϛ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num></supplied> <num value="2"><expan><ex>δίχαλκον</ex></expan></num> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="74">οδ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num> <num value="2"><expan><ex>δίχαλκον</ex></expan></num>
+
+    <lb n="9"/>ὑποκει<unclear>μ</unclear><supplied reason="lost">ένου </supplied><expan><supplied reason="lost">κ</supplied><unclear>ω</unclear>μογραμμα<unclear>τ</unclear><ex>έως</ex></expan> σὺν <gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/>
+
+    <lb n="10" rend="indent"/> <gap reason="lost" quantity="5" unit="character"/> <expan>προσδ<ex>ιαγραφόμενα</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="6">ϛ</num> <expan><ex>γίνονται</ex></expan> <gap reason="lost" quantity="2" unit="character"/>
+
+    <lb n="11"/>καὶ ὑπ<supplied reason="lost">ὲρ τέλου</supplied><unclear>ς</unclear> θυιῶν ἐλαιουργί<supplied reason="lost">ου <expan>Σοκνοπ<ex>αίου</ex></expan></supplied>
+
+    <lb n="12" rend="indent"/> Σ<supplied reason="lost">οκνοπαίο</supplied>υ Νήσου <expan><ex>δραχμὰς</ex></expan> <num value="142">ρμβ</num> <supplied reason="lost"><num value="2"><expan><ex>διώβολον</ex></expan></num> <expan>προσδ<ex>ιαγραφόμενα</ex></expan> <expan><ex>δραχμὰς</ex></expan> <num value="9">θ</num></supplied> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="151">ρνα</num> <num value="3"><expan><ex>τριώβολον</ex></expan></num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num>
+
+    <lb n="13"/>καὶ ὑπὲρ <supplied reason="lost">προφητ</supplied>είας καὶ λεσωνεία<supplied reason="lost">ς καὶ θε</supplied>αγείας
+
+    <lb n="14" rend="indent"/> Σο<supplied reason="lost">κνοπαίο</supplied>υ καὶ Ἐνούπεως θεῶ<supplied reason="lost">ν Νε</supplied><unclear>ί</unclear>λου
+
+    <lb n="15" rend="indent"/> π<supplied reason="lost">όλεως</supplied> <expan><ex>δραχμὰς</ex></expan> <num value="64">ξδ</num> <expan>προσ<supplied reason="lost">δ<ex>ιαγραφόμενα</ex></supplied></expan> <supplied reason="lost"><expan><ex>δραχμὰς</ex></expan> <num value="4">δ</num></supplied> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="68">ξη</num>
+
+    <lb n="16"/>προφήτῃ Σούχου θεοῦ μεγάλου <supplied reason="lost">μεγάλου</supplied> <expan><ex>δραχμὰς</ex></expan> <num value="344">τμδ</num>
+
+    <lb n="17" rend="indent"/> <expan>γίν<ex>εται</ex></expan> <expan><ex>τάλαντον</ex></expan> <num value="1">α</num> <expan><ex>δραχμαὶ</ex></expan> <num value="470">υ<unclear>ο</unclear></num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num> 
+
+    <lb n="18"/>καὶ ὑπὲρ ὑποκειμένου ἐπιστρατη<supplied reason="lost">γίᾳ γν</supplied>α
+
+    <lb n="19" break="no"/>φέων Νείλου πόλεως <gap reason="lost" extent="unknown" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <num value="240">σμ</num>
+
+    <lb n="20" rend="indent"/> ζυγοστασίου κώμης <expan>Σοκν<supplied reason="lost">οπ<ex>αίου</ex></supplied></expan> <supplied reason="lost">Νήσο</supplied>υ <expan><ex>δραχμὰς</ex></expan> <num value="24">κδ</num>
+
+    <lb n="21" rend="indent"/> ταριχευτῶν κώμης ὁμοί<supplied reason="lost">ως </supplied><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <num value="16">ιϛ</num>
+
+    <lb n="22" rend="indent"/> λ<unclear>α</unclear>χανοπωλῶν κώμ<supplied reason="lost">ης ὁμοίως </supplied><gap reason="lost" extent="unknown" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <num value="12">ιβ</num>
+
+    <lb n="23" rend="indent"/> γναφέων κώμης ὁ<supplied reason="lost">μοίως </supplied> <expan><ex>δραχμὰς</ex></expan> <num value="16">ιϛ</num>
+
+    <lb n="24" rend="indent"/> <expan>γ<ex>ίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="308">τη</num> <expan>προσ<supplied reason="lost">δ<ex>ιαγραφόμενα</ex></supplied></expan> <expan><ex>δραχμὰς</ex></expan> <num value="20">κ</num> <gap reason="lost" quantity="2" unit="character"/> <supplied reason="lost"><num value="2"><expan><ex>δίχαλκον</ex></expan></num>, <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="328">τκη</num></supplied> <gap reason="lost" quantity="1" unit="character"/> <num value="2"><expan><ex>δίχαλκον</ex></expan></num>
+
+    <lb n="25"/>καὶ εἰς τὸν τῆς νομαρχίας λόγον <supplied reason="lost">ὑπὲρ</supplied> <gap reason="lost" quantity="4" unit="character"/>
+
+    <lb n="26" rend="indent"/> προκειμένων ἁλιευτικῶν πλ<supplied reason="lost">οίων<expan><ex>δραχμὰς</ex></expan></supplied><num value="625"><supplied reason="lost">χ</supplied>κε</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num>
+</ab></div>
+<div n="2" subtype="column" type="textpart"><ab>
+    <lb n="27"/>δεκανικοῦ ὁμοίως τῶν αὐτῶν πλοίων <expan><ex>δραχμὰς</ex></expan> <num value="60">ξ</num>
+
+    <lb n="28"/>καὶ ὑ<supplied reason="lost">π</supplied>ὲρ ζυτηρᾶς Σοκνοπαίου Νήσου <expan><ex>δραχμὰς</ex></expan> <num value="220">σκ</num>
+
+    <lb n="29"/>καὶ εἰς <choice><reg>τιμὴν</reg><orig>τειμὴν</orig></choice> ὀθονίων βυσσίνων <expan>στολισμῶ<ex>ν</ex></expan>
+
+    <lb n="30" rend="indent"/> <num value="3">τριῶν</num> τῶν θεῶν μηνὶ Νέῳ Σεβαστῷ <num value="7"><hi rend="supraline">ζ</hi></num> <expan><ex>δραχμὰς</ex></expan> <num value="100">ρ</num>
+
+    <lb n="31"/>μηνὶ Φαμενὼθ <num value="9"><hi rend="supraline">θ</hi></num> <gap reason="illegible" quantity="1" unit="character"/> <expan><ex>δραχμὰς</ex></expan> <num value="100">ρ</num>
+
+    <lb n="32"/>μηνὶ Ἐπεὶφ <num value="26"><hi rend="supraline">κ</hi><supplied reason="omitted">ϛ</supplied></num> <expan><ex>δραχμὰς</ex></expan> <num value="100">ρ</num>
+
+    <lb n="33"/><choice><reg>τιμῆς</reg><orig>τειμῆς</orig></choice> κύφ<supplied reason="lost">εω</supplied>ς καὶ ἄλλων δαπανῶν <expan><ex>δραχμὰς</ex></expan> <num value="500">φ</num>
+
+    <lb n="34"/><choice><reg>τιμῆς</reg><orig>τειμ<supplied reason="lost">ῆς</supplied></orig></choice> κύφ<supplied reason="lost">ε</supplied>ως Ἁρποκράτου θεοῦ <expan><ex>δραχμὰς</ex></expan> <num value="96">ϙϛ</num>
+
+    <lb n="35"/>γενεσί<supplied reason="lost">οις</supplied> τῶν <supplied reason="lost">θεῶ</supplied>ν Σεβαστῶν εἰς θυσίας καὶ
+
+    <lb n="36" rend="indent"/> <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>θυμ<supplied reason="lost">ίαματα</supplied> <expan><ex>δραχμὰς</ex></expan> <num value="40">μ</num>
+
+    <lb n="37"/><choice><reg>τιμῆς</reg><orig>τειμῆς</orig></choice> μύρου κ<supplied reason="lost">αὶ</supplied> ζμύρνης τῶν θεῶν ἡμερῶν <num value="3">τριῶν</num> <expan><ex>δραχμὰς</ex></expan> <num value="60">ξ</num>
+
+    <lb n="38" rend="indent"/> <expan><ex>γίνονται</ex></expan> <expan><ex>δραχμαὶ</ex></expan> <num value="1901">Αϡα</num> <num value="1"><expan><ex>ὀβολὸς</ex></expan></num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num>
+
+    <lb n="39" rend="indent"/> <expan>γ<supplied reason="lost">εί<ex>νεται</ex></supplied></expan> εἰ<supplied reason="lost">ς</supplied> τὸ αὐτὸ τοῦ <expan>ἀναλ<ex>ώματος</ex></expan> <expan><ex>τάλαντον</ex></expan> <num value="1">α</num> <expan><ex>δραχμαὶ</ex></expan> <num value="4700">Δψ</num> <num value="1/2"><expan><ex>ἡμιωβέλιον</ex></expan></num>
+
+    <lb n="40" rend="indent"/> λο<supplied reason="lost">ιπα</supplied>ὶ λ<supplied reason="lost">ήμ</supplied>ματος <expan><ex>δραχμαὶ</ex></expan> <num value="637">χλζ</num> <num value="4"><expan><ex>τετρώβολον</ex></expan></num> <num value="2"><expan><ex>δίχαλκον</ex></expan></num>
+
+    <lb n="41"/>α<supplied reason="lost">ἳ</supplied> καὶ δ<supplied reason="lost">ια</supplied><unclear>γ</unclear>ρα<unclear>φ</unclear>όμεναι εἰς τὸν κυριακὸν λόγον ὑπὲρ ἐπι
+
+    <lb n="42" break="no"/>κεφαλίο<supplied reason="lost">υ</supplied> τῶν ὑπεραιρόντων ἱερέων.
+
+    <lb n="43"/>καὶ εἰς ἔ<supplied reason="lost">κ</supplied>πεψ<supplied reason="lost">ι</supplied>ν κατʼ ἔτος τοῖς <choice><reg>ἁγνεύουσι</reg><orig>ἁγνέουσι</orig></choice> ἱερεῦσι τῆς πεντα
+
+    <lb n="44" break="no"/>φυλίας Σοκνοπαίου θεοῦ μεγάλου ἑκάστης ἡμέρας ἀνὰ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβην</ex></expan> <num value="1">α</num> <expan><ex>πυροῦ</ex></expan> <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan> <num value="365">τξε</num></supplied>,
+
+    <lb n="45"/>καὶ ὁμοίω<supplied reason="lost">ς τ</supplied>οῖς α<supplied reason="lost">ὐ</supplied>τοῖς ἱερεῦσι Σοκνοπαίου θεοῦ μεγάλου
+
+    <lb n="46" rend="indent"/> τα<supplied reason="lost">ῖς</supplied> κω<supplied reason="lost">μασί</supplied>αις τῶν προκειμένων <supplied reason="lost">θε</supplied>ῶν <choice><reg>ἁγνεύουσι</reg><orig>ἁγνέουσι</orig></choice>
+
+    <lb n="47"/>μηνὶ Σεβαστῷ <num value="1"><hi rend="supraline">α</hi></num> ἡμερῶν <num value="7"><hi rend="supraline">ζ</hi></num> ἀνὰ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <expan><ex>πυροῦ</ex></expan> <supplied reason="lost"><expan><ex>ἀρτάβαι</ex></expan> <num value="28">κη</num>,</supplied>
+
+    <lb n="48"/>καὶ τῆι <num value="19">ι<hi rend="supraline">θ</hi></num> τοῦ αὐτοῦ μηνὸς Ἑρμαίοις ἡμερῶν <num value="7"><hi rend="supraline">ζ</hi></num> ἀνὰ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="28"><supplied reason="lost">κ</supplied>η</num>
+
+    <lb n="49"/><expan>Φαῶφ<ex>ι</ex></expan> <num value="16">ιϛ</num> χαρ<supplied reason="lost">μοσ</supplied>ύνοις ἡμερῶν <num value="8"><hi rend="supraline">η</hi></num> ἀνὰ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="32">λβ</num>
+
+    <lb n="50"/>μηνὶ Νέῳ Σεβαστῷ <num value="7"><hi rend="supraline">ζ</hi></num> γενεσίοις Σοκνοπαίου θεοῦ <expan>μεγάλο<ex>υ</ex></expan>
+
+    <lb n="51" rend="indent"/> ἡμερῶν <num value="19"><supplied reason="lost"><hi rend="supraline">ιθ</hi></supplied></num> <supplied reason="lost">ἀν</supplied>ὰ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="76">οϛ</num>
+
+    <lb n="52"/>Χοίακ <num value="8">η</num> Γάμοις Εἴσιδος Ν<supplied reason="lost">ε</supplied>φ<supplied reason="lost">ερσ</supplied>ήους θ<supplied reason="lost">ε</supplied>ᾶς μεγίστης <expan>ἡμερῶ<ex>ν</ex></expan> <num value="9">θ</num> ἀνὰ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="36"><supplied reason="lost">λϛ</supplied></num>
+
+    <lb n="53"/><num value="26"><hi rend="supraline">κϛ</hi></num> ὁμοίως τοῦ αὐτοῦ μη<supplied reason="lost">νὸς</supplied> <expan><supplied reason="lost">ἡ</supplied>μερῶ<ex>ν</ex></expan> <num value="8"><hi rend="supraline">η</hi></num> ἀνὰ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="32">λβ</num>
+
+    <lb n="54"/>Τῦβι <num value="8"><hi rend="supraline">η</hi></num> κ<supplied reason="lost">α</supplied>θιδρύσεως ναοῦ θεοῦ Σοκνοπαίου <expan>ἡμερῶ<ex>ν</ex></expan> <num value="7">ζ</num> ἀνὰ <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβας</ex></expan> <num value="4">δ</num> <expan><ex>πυροῦ</ex></expan> <expan><ex>ἀρτάβαι</ex></expan> <num value="28"><supplied reason="lost">κ</supplied>η</num>
+</ab></div>       
+            </div>
       </body>
    </text>
 </TEI>
